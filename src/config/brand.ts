@@ -1,0 +1,38 @@
+export const brandConfig = {
+  name: "VedicVibe Tours & Travels",
+  shortName: "VedicVibe",
+  tagline: "Explore More. Travel Better.",
+  subTagline: "India's Premier Luxury & Pilgrimage Tour Specialists",
+  phone: "+91 98765 43210",
+  altPhone: "+91 98200 11223",
+  whatsappNumber: "919876543210",
+  whatsappFormatted: "+91 98765 43210",
+  email: "support@vedicvibe.in",
+  bookingEmail: "bookings@vedicvibe.in",
+  address: "Suite 402, Heritage Heights, MG Road, Fort, Mumbai, Maharashtra 400001",
+  gstin: "27AABCV1234F1Z9",
+  licenseNo: "MAH/TOUR/2022/8892",
+  rating: 4.9,
+  reviewsCount: "12,450+",
+  establishedYear: 2012,
+  socials: {
+    facebook: "https://facebook.com/vedicvibetours",
+    instagram: "https://instagram.com/vedicvibetours",
+    youtube: "https://youtube.com/vedicvibetours",
+    twitter: "https://twitter.com/vedicvibetours",
+  },
+  colors: {
+    tealDark: "#0B3B3C",
+    tealOcean: "#14A3A8",
+    sand: "#F5EFE6",
+    ink: "#0E1111",
+    saffron: "#F59E0B",
+    mist: "#F8FAFA",
+  },
+  features: [
+    { title: "24/7 Support", desc: "Dedicated concierge for your trip", icon: "Headphones" },
+    { title: "Verified Hotels", desc: "Handpicked 4★ & 5★ properties", icon: "ShieldCheck" },
+    { title: "Transparent Pricing", desc: "Zero hidden charges, clear breakdown", icon: "BadgePercent" },
+    { title: "Customizable Routes", desc: "Tailor itineraries to your pace", icon: "Compass" },
+  ]
+};
